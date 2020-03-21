@@ -1,0 +1,13 @@
+mtime = 1584773617
+[[pkgs]]
+type = "github"
+distrib = "mllqjsjblls22tafeh7yrp"
+package = "mLLQJSjbLLS22TafEH7yRP-1.0-py3-none-any"
+ext = "whl"
+sha256 = "d9ae5408213fe88a7b6f224b40328f8ce4a7d7ab17e77101426d0a9c991a8f92"
+url = "https://api.github.com/repos/private-pypi-github-test-org/private-pypi-github-test-20200321065322767981/releases/assets/18869619"
+
+[pkgs.meta]
+name = "mLLQJSjbLLS22TafEH7yRP"
+distrib = "mllqjsjblls22tafeh7yrp"
+sha256 = "d9ae5408213fe88a7b6f224b40328f8ce4a7d7ab17e77101426d0a9c991a8f92"
